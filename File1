@@ -4,18 +4,12 @@
 // @namespace    dithpri.RCES
 // @description  Automatically inputs a default value in the ask/bid fields
 // @author       dithpri
-// @noframes
 // @match        https://www.nationstates.net/*page=deck*/card=*
 // @match        https://www.nationstates.net/*card=*/page=deck*
 // @grant        none
 // ==/UserScript==
 
-/*
- * Copyright (c) 2019-2020 dithpri (Racoda) <dithpri@gmail.com>
- * This file is part of RCES: https://github.com/dithpri/RCES and licensed under
- * the MIT license. See LICENSE.md or
- * https://github.com/dithpri/RCES/blob/master/LICENSE.md for more details.
- */
+
 
 (function () {
 	"use strict";
